@@ -1,3 +1,6 @@
+본 매뉴얼은 품질관리에서 임시로 관리하는 중입니다. 
+이점 참고하시어 활용하시길 바랍니다. 
+
 Altibase® Application Development
 
 JDBC User’s Manual
