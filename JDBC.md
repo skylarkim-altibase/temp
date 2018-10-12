@@ -1,3 +1,6 @@
+본 매뉴얼은 품질관리에서 임시로 관리하는 중입니다. 
+이점 참고하시어 활용하시길 바랍니다. 
+
 Altibase® Application Development
 
 JDBC User’s Manual
@@ -10,7 +13,7 @@ JDBC User’s Manual
 
 >   Altibase Application Development JDBC User’s Manual
 
->   Release 7.1
+>   Release 10.1
 
 >   Copyright ⓒ 2001\~ Altibase Corp. All Rights Reserved.
 
@@ -19,7 +22,7 @@ JDBC User’s Manual
 
 >   **㈜알티베이스**
 
->   08378 서울시 구로구 디지털로 306 대륭포스트타워Ⅱ 10층
+>   08378 서울시 구로구 디지털로 306 대륭포스트타워Ⅱ 8층
 
 >   전화: 02-2082-1114 팩스: 02-2082-1099
 
